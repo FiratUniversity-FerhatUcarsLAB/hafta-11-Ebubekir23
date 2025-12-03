@@ -1,3 +1,7 @@
+/*
+ * Ad Soyad: Ebubekir Yılmaz
+ * Öğrenci No: 250541051
+*/
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
