@@ -23,7 +23,7 @@ public class Exercise4_3 {
     }
 }
 
-/* Stack Diyagrami
+/* Stack Diyagramı
 *ping() çalışıyor(yerel değişken yok, parametre yok)
 *baffle() ping çağırdı baffle'ın blimp parametresi yok
 *Systemm.out.println("wug") çalışmıştı
