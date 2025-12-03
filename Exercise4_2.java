@@ -1,3 +1,7 @@
+/*
+ * Ad Soyad: Ebubekir Yılmaz
+ * Öğrenci No: 250541051
+*/
 import java.util.Scanner;
 
 public class Exercise4_2 {
