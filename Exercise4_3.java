@@ -22,3 +22,17 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+/* Stack Diyagrami
+*ping() çalışıyor(yerel değişken yok, parametre yok)
+*baffle() ping çağırdı baffle'ın blimp parametresi yok
+*Systemm.out.println("wug") çalışmıştı
+*zoop() baffle()'ı çağırmıştı zoop'un sonraki satırı System.out.print("You wugga ")
+*main() en altta main önce "No, I " yazdırmıştı
+*/
+
+/* Tam Çıktı
+*No, I wug.
+*You wugga wug.
+*I wug.
+*/
