@@ -1,3 +1,7 @@
+/*
+ * Ad Soyad: Ebubekir Yılmaz
+ * Öğrenci No: 250541051
+*/
 public class Exercise4_4 {
 
     public static int getNumber() {
