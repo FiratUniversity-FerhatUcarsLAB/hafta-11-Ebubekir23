@@ -1,3 +1,7 @@
+/*
+ * Ad Soyad: Ebubekir Yılmaz
+ * Öğrenci No: 250541051
+*/
 public class Exercise4_1 {
 
     public static void printAmerican(String day, int date, String month, int year) {
