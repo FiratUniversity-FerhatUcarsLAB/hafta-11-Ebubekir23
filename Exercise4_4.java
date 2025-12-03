@@ -20,5 +20,5 @@ public class Exercise4_4 {
     }
 }
 
-// Cevap 1: Derleyici uyarı veya hata vermedi ancak konsola da hiçbir şey yazdırmadı.
-// Cevap 2: Derleyici hata verdi.
+// Cevap 1: Derleyici uyarı veya hata vermedi ancak konsola da hiçbir şey yazdırmadı
+// Cevap 2: Derleyici hata verdi
