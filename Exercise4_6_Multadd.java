@@ -1,3 +1,7 @@
+/*
+ * Ad Soyad: Ebubekir Yılmaz
+ * Öğrenci No: 250541051
+*/
 public class Multadd {
 
 	public static double multadd(double a, double b, double c) {
