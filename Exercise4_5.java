@@ -25,3 +25,20 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+
+/* Cevap 1:
+*main: clink(2*buzz) => clink(4)
+*  clink System.out.print("It's ");
+*  clink zoop("breakfast ", 4);
+*    zoop yazdırır breakfast (bu aynı satırın devamı olarak yazılır
+*    çünkü öce It's yazılmıştı) println olduğu için satır sonu olur
+*    bob==4 olduğu için else branch: System.out.println("!"); yeni satırda !
+*/
+
+/* Cevap 2:
+*just for
+*any not more 
+*It's breakfast 
+*!
+*/
