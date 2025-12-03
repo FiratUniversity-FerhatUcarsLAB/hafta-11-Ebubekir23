@@ -19,3 +19,6 @@ public class Exercise4_4 {
         // Cevaplarinizi yorum olarak ekleyin.
     }
 }
+
+// Cevap 1: Derleyici uyarı veya hata vermedi ancak konsola da hiçbir şey yazdırmadı.
+// Cevap 2: Derleyici hata verdi.
